@@ -10,11 +10,7 @@ This project is a React application built using Vite.
    git clone https://github.com/Abdurrahman-Hassan/TezeractReactTest.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd your-repository
-   ```
+2. Navigate to the project directory
 
 3. Install dependencies:
 
